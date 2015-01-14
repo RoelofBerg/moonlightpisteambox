@@ -1,0 +1,27 @@
+#Gamepad
+#Wed Jan 14 22:35:46 CET 2015
+reverse_y=false
+reverse_x=false
+abs_ry=4
+btn_dpad_right=297
+abs_rx=3
+btn_start=315
+btn_tl2=310
+btn_select=314
+btn_tr2=311
+btn_west=305
+btn_east=307
+btn_tr=313
+btn_south=304
+btn_dpad_left=296
+btn_mode=316
+btn_tl=312
+btn_thumbr=318
+btn_dpad_up=294
+btn_north=308
+btn_dpad_down=295
+abs_y=1
+abs_x=0
+btn_thumbl=317
+reverse_ry=false
+reverse_rx=false
