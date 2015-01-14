@@ -12,7 +12,7 @@
 
 # Author: MasteRehm
 
-# This is code from https://github.com/petrockblog/RetroPie-Setup/wiki/Setting-$
+# This is code from https://github.com/petrockblog/RetroPie-Setup/wiki/Setting-up-the-XBox360-controller
 # copied into a wget-able file.
 
 PATH=/sbin:/usr/sbin:/bin:/usr/bin
