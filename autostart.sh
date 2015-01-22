@@ -10,4 +10,4 @@ while ! nc -z -w5 <ENTER IP OR HOSTNAME OF PC HERE> 47989 &>/dev/null; do :; don
 #Start limelight
 echo PC available, starting limelight
 cd /home/pi/limelight
-java -jar limelight.jar -mapping xbox.map stream <ENTER IP OR HOSTNAME OF PC HERE>
+java -jar limelight.jar -mapping xbox.map -60fps stream <ENTER IP OR HOSTNAME OF PC HERE>
