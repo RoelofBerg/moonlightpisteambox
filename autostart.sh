@@ -8,6 +8,6 @@ echo Connecting to the PC ...
 while ! nc -z -w5 <ENTER IP OR HOSTNAME OF PC HERE> 47989 &>/dev/null; do :; done
 
 #Start limelight
-echo PC available, starting limelight
-cd /home/pi/limelight
-java -jar limelight.jar -mapping xbox.map -60fps stream <ENTER IP OR HOSTNAME OF PC HERE>
+echo PC available, starting moonlight
+cd /home/pi/moonlight
+moonlight -mapping xbox.map -60fps stream <ENTER IP OR HOSTNAME OF PC HERE>
